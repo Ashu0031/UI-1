@@ -1,0 +1,56 @@
+body{
+   background-color:yellow;
+}
+*{
+    margin:0;
+    padding: 0;
+}
+div{
+    background-position: left-top;
+}
+div{
+    background-attachment: fixed;
+}
+div{
+    background: red url(../image/stock-vector-male-silhouette-profile-picture-with-question-mark-on-the-head-vector-151266383.jpg)no-repeat fixed right-top;
+}
+#box{
+    height:70px;
+    width:90px;
+
+}
+box{
+    margin:3px;
+    padding:4px;
+}
+boxMain{
+    margin:7px;
+}
+boxlast{
+    margin:7px;
+}
+container{
+    display: grid;
+    grid: gap 40px 100px;;
+}
+container{
+    display:grid;
+    grid-template-columns: 80px 120px auto;
+}
+container{
+    display:grid;
+    grid-template-rows: 70px 150px;
+}
+
+grid-item{
+    grid-column: 1/5;
+}
+item{
+    grid-column: 1/span3;
+}
+@media screen and(max-width:80x){
+    body{
+        cursor: red;
+    }
+    
+}

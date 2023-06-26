@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+#first{
+    color: white;
+}
+
+div{
+    color: black;
+}
+p.red{
+    color:aqua;
+}
