@@ -1,0 +1,40 @@
+ .red{
+            background-color: aqua;
+            height: 100px;
+}
+.blue{
+    background-color: darkkhaki;
+    width: 100px;
+}
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* (*)this is universal selector,(.)is for class */
